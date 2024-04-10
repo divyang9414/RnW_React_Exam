@@ -1,0 +1,76 @@
+{
+	"rooms": [
+		{
+			"id": 1,
+			"name": "Standard Room",
+			"price": 100,
+			"city": "New York",
+			"state": "New York",
+			"country": "USA",
+			"pincode": "10001"
+		},
+		{
+			"id": 2,
+			"name": "Deluxe Room",
+			"price": 150,
+			"city": "Los Angeles",
+			"state": "California",
+			"country": "USA",
+			"pincode": "90001"
+		},
+		{
+			"id": 3,
+			"name": "Suite",
+			"price": 200,
+			"city": "Chicago",
+			"state": "Illinois",
+			"country": "USA",
+			"pincode": "60601"
+		},
+		{
+			"id": 4,
+			"name": "Ocean View Room",
+			"price": 250,
+			"city": "Miami",
+			"state": "Florida",
+			"country": "USA",
+			"pincode": "33101"
+		},
+		{
+			"id": 5,
+			"name": "Mountain View Room",
+			"price": 180,
+			"city": "Denver",
+			"state": "Colorado",
+			"country": "USA",
+			"pincode": "80202"
+		},
+		{
+			"id": 6,
+			"name": "Luxury Suite",
+			"price": 300,
+			"city": "Las Vegas",
+			"state": "Nevada",
+			"country": "USA",
+			"pincode": "89101"
+		},
+		{
+			"id": 7,
+			"name": "Family Room",
+			"price": 180,
+			"city": "Orlando",
+			"state": "Florida",
+			"country": "USA",
+			"pincode": "32801"
+		},
+		{
+			"id": 8,
+			"name": "Executive Suite",
+			"price": 280,
+			"city": "San Francisco",
+			"state": "California",
+			"country": "USA",
+			"pincode": "94101"
+		}
+	]
+}
